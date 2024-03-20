@@ -1,0 +1,41 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-03-12T06:57:15.006Z",
+        "line": 5,
+        "name": "To verify the download offline bundle Offline bundle",
+        "description": "",
+        "id": "to-valited-the-download-offline-bundle-functionality;to-verify-the-download-offline-bundle-offline-bundle",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 843812042500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User check all offline download bundles",
+            "match": {
+              "location": "DownloadOfflineBundle.user_check_all_offline_download_bundles()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@offlnebundles"
+          }
+        ]
+      }
+    ],
+    "name": "To Valited the download offline bundle functionality",
+    "description": "",
+    "id": "to-valited-the-download-offline-bundle-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/DownloadOfflineBundle.feature",
+    "tags": []
+  }
+]

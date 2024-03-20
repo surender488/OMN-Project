@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="843.834935">
+<testcase classname="To Valited the download offline bundle functionality" name="To verify the download offline bundle Offline bundle" time="843.834935">
+<system-out><![CDATA[Given User check all offline download bundles...............................passed
+]]></system-out>
+</testcase>
+</testsuite>
